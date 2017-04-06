@@ -1,0 +1,19 @@
+{
+  "name": "sanga",
+  "version": "0.0.1",
+  "description": "sanga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderchang/sanga.git"
+  },
+  "author": "Wonder Chang <iwonder.tw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wonderchang/sanga/issues"
+  },
+  "homepage": "https://github.com/wonderchang/sanga#readme"
+}

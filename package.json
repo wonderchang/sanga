@@ -4,6 +4,7 @@
   "description": "sanga",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules/.bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/wonderchang/sanga/issues"
   },
-  "homepage": "https://github.com/wonderchang/sanga#readme"
+  "homepage": "https://github.com/wonderchang/sanga#readme",
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
 }
